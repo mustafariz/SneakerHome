@@ -27,3 +27,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 18ms (Views: 12.2ms | ActiveRecord: 0.0ms | Allocations: 6145)
 
 
+Started GET "/" for 127.0.0.1 at 2022-11-21 18:54:22 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/mustafarizvi/.rvm/gems/ruby-2.7.4/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/mustafarizvi/.rvm/gems/ruby-2.7.4/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 353)
+Completed 200 OK in 20ms (Views: 14.9ms | Allocations: 1108)
+
+
